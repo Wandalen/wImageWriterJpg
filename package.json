@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterJpg/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewriterjpg" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewriterjpg" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
