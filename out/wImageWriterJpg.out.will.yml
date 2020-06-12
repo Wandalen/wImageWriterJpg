@@ -3,8 +3,8 @@ root:
   - wImageWriterJpg.out
 consistency:
   ../.ex.will.yml: &ref_0
-    hash: 4a961185a0a6202b48967398eff18b30
-    size: 1702
+    hash: bd9cb1698457d6588ff962099f710825
+    size: 1703
   ../.im.will.yml: &ref_1
     hash: 4bd2ad8e081461ac0a9600e6aa2abea9
     size: 4662
@@ -1423,8 +1423,8 @@ module:
           - 'build::npm'
     consistency:
       ../.ex.will.yml:
-        hash: 4a961185a0a6202b48967398eff18b30
-        size: 1702
+        hash: bd9cb1698457d6588ff962099f710825
+        size: 1703
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
